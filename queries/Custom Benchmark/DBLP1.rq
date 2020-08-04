@@ -1,0 +1,8 @@
+# Select authors and their articles of authors who published in the Journal of Web Semantics 
+SELECT *
+WHERE {
+?d <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ws> .
+?d <http://purl.org/dc/elements/1.1/creator> ?c .
+?d2 <http://purl.org/dc/elements/1.1/creator> ?c .
+?d2 rdf:type <http://swrc.ontoware.org/ontology#Article> .
+}

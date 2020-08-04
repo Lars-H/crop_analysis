@@ -1,0 +1,6 @@
+# Select the given names of people born in the country of Luanda
+select * where {
+<http://dbpedia.org/resource/Luanda> <http://dbpedia.org/ontology/country> ?o1 .
+?d1 <http://dbpedia.org/ontology/nationality> ?o1.
+?d1 <http://xmlns.com/foaf/0.1/givenName> ?o2 .
+}

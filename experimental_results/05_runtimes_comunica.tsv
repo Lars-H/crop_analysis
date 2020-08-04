@@ -1,0 +1,370 @@
+query	answers	benchmark	subset	runtime_s	querytype	engine
+Q10	9040.0	dbpedia	General	107.779	Q1	Comunica
+Q1	2.0	dbpedia	General	1.771	Q	Comunica
+Q2	8.0	dbpedia	General	2.195	Q	Comunica
+Q3	18.0	dbpedia	General	2.255	Q	Comunica
+Q4	54.0	dbpedia	General	4.54	Q	Comunica
+Q5	1091.0	dbpedia	General	44.646	Q	Comunica
+Q6	188.0	dbpedia	General	28.259	Q	Comunica
+Q7	251.0	dbpedia	General	34.25	Q	Comunica
+Q8	17807.0	dbpedia	General	72.765	Q	Comunica
+Q9	5223.0	dbpedia	General	54.801	Q	Comunica
+Q10	9040.0	dbpedia	General	107.625	Q1	Comunica
+Q1	2.0	dbpedia	General	1.853	Q	Comunica
+Q2	8.0	dbpedia	General	2.218	Q	Comunica
+Q3	18.0	dbpedia	General	2.34	Q	Comunica
+Q4	54.0	dbpedia	General	4.463	Q	Comunica
+Q5	1091.0	dbpedia	General	42.543	Q	Comunica
+Q6	188.0	dbpedia	General	27.871	Q	Comunica
+Q7	251.0	dbpedia	General	34.643	Q	Comunica
+Q8	17807.0	dbpedia	General	70.024	Q	Comunica
+Q9	5223.0	dbpedia	General	54.729	Q	Comunica
+Q10	9040.0	dbpedia	General	106.242	Q1	Comunica
+Q1	2.0	dbpedia	General	1.678	Q	Comunica
+Q2	8.0	dbpedia	General	2.245	Q	Comunica
+Q3	18.0	dbpedia	General	2.282	Q	Comunica
+Q4	54.0	dbpedia	General	4.155	Q	Comunica
+Q5	1091.0	dbpedia	General	41.867	Q	Comunica
+Q6	188.0	dbpedia	General	27.471	Q	Comunica
+Q7	251.0	dbpedia	General	35.106	Q	Comunica
+Q8	17807.0	dbpedia	General	71.759	Q	Comunica
+Q9	5223.0	dbpedia	General	55.274	Q	Comunica
+Q1	7.0	dbpedia	Music	2.395	Q	Comunica
+Q2	63.0	dbpedia	Music	3.295	Q	Comunica
+Q3	68.0	dbpedia	Music	2.487	Q	Comunica
+Q4	114.0	dbpedia	Music	3.505	Q	Comunica
+Q5	1768.0	dbpedia	Music	19.811	Q	Comunica
+Q1	7.0	dbpedia	Music	2.56	Q	Comunica
+Q2	63.0	dbpedia	Music	3.09	Q	Comunica
+Q3	68.0	dbpedia	Music	2.325	Q	Comunica
+Q4	114.0	dbpedia	Music	3.448	Q	Comunica
+Q5	1768.0	dbpedia	Music	20.898	Q	Comunica
+Q1	7.0	dbpedia	Music	2.527	Q	Comunica
+Q2	63.0	dbpedia	Music	3.144	Q	Comunica
+Q3	68.0	dbpedia	Music	2.424	Q	Comunica
+Q4	114.0	dbpedia	Music	3.446	Q	Comunica
+Q5	1768.0	dbpedia	Music	20.446	Q	Comunica
+Q1	4.0	dbpedia	Sports	1.017	Q	Comunica
+Q2	12.0	dbpedia	Sports	2.19	Q	Comunica
+Q3	14.0	dbpedia	Sports	1.93	Q	Comunica
+Q4	19.0	dbpedia	Sports	1.753	Q	Comunica
+Q5	36.0	dbpedia	Sports	1.934	Q	Comunica
+Q1	4.0	dbpedia	Sports	1.049	Q	Comunica
+Q2	12.0	dbpedia	Sports	2.243	Q	Comunica
+Q3	14.0	dbpedia	Sports	1.857	Q	Comunica
+Q4	19.0	dbpedia	Sports	1.807	Q	Comunica
+Q5	36.0	dbpedia	Sports	1.966	Q	Comunica
+Q1	4.0	dbpedia	Sports	1.055	Q	Comunica
+Q2	12.0	dbpedia	Sports	2.133	Q	Comunica
+Q3	14.0	dbpedia	Sports	1.98	Q	Comunica
+Q4	19.0	dbpedia	Sports	1.852	Q	Comunica
+Q5	36.0	dbpedia	Sports	1.874	Q	Comunica
+Q1	4.0	dbpedia	LifeScience	1.914	Q	Comunica
+Q2	6.0	dbpedia	LifeScience	1.295	Q	Comunica
+Q3	7.0	dbpedia	LifeScience	2.683	Q	Comunica
+Q4	8.0	dbpedia	LifeScience	1.294	Q	Comunica
+Q5	270.0	dbpedia	LifeScience	4.826	Q	Comunica
+Q1	4.0	dbpedia	LifeScience	1.838	Q	Comunica
+Q2	6.0	dbpedia	LifeScience	1.352	Q	Comunica
+Q3	7.0	dbpedia	LifeScience	2.9	Q	Comunica
+Q4	8.0	dbpedia	LifeScience	1.206	Q	Comunica
+Q5	270.0	dbpedia	LifeScience	4.572	Q	Comunica
+Q1	4.0	dbpedia	LifeScience	1.958	Q	Comunica
+Q2	6.0	dbpedia	LifeScience	1.405	Q	Comunica
+Q3	7.0	dbpedia	LifeScience	2.841	Q	Comunica
+Q4	8.0	dbpedia	LifeScience	1.334	Q	Comunica
+Q5	270.0	dbpedia	LifeScience	4.814	Q	Comunica
+Q1	2.0	dbpedia	Historical	1.088	Q	Comunica
+Q2	2.0	dbpedia	Historical	2.222	Q	Comunica
+Q3	4.0	dbpedia	Historical	3.154	Q	Comunica
+Q4	170.0	dbpedia	Historical	3.672	Q	Comunica
+Q5	138.0	dbpedia	Historical	1.894	Q	Comunica
+Q1	2.0	dbpedia	Historical	1.109	Q	Comunica
+Q2	2.0	dbpedia	Historical	2.173	Q	Comunica
+Q3	4.0	dbpedia	Historical	3.128	Q	Comunica
+Q4	170.0	dbpedia	Historical	4.012	Q	Comunica
+Q5	138.0	dbpedia	Historical	1.814	Q	Comunica
+Q1	2.0	dbpedia	Historical	1.223	Q	Comunica
+Q2	2.0	dbpedia	Historical	2.207	Q	Comunica
+Q3	4.0	dbpedia	Historical	3.156	Q	Comunica
+Q4	170.0	dbpedia	Historical	4.196	Q	Comunica
+Q5	138.0	dbpedia	Historical	1.873	Q	Comunica
+Q1	15.0	dbpedia	Movies	38.544	Q	Comunica
+Q2	1	dbpedia	Movies	9.215	Q	Comunica
+Q3	49.0	dbpedia	Movies	4.881	Q	Comunica
+Q4	56.0	dbpedia	Movies	4.662	Q	Comunica
+Q5	87.0	dbpedia	Movies	4.742	Q	Comunica
+Q1	15.0	dbpedia	Movies	40.505	Q	Comunica
+Q2	1	dbpedia	Movies	8.964	Q	Comunica
+Q3	49.0	dbpedia	Movies	4.803	Q	Comunica
+Q4	56.0	dbpedia	Movies	4.709	Q	Comunica
+Q5	87.0	dbpedia	Movies	4.772	Q	Comunica
+Q1	15.0	dbpedia	Movies	38.02	Q	Comunica
+Q2	1	dbpedia	Movies	9.186	Q	Comunica
+Q3	49.0	dbpedia	Movies	4.848	Q	Comunica
+Q4	56.0	dbpedia	Movies	4.829	Q	Comunica
+Q5	87.0	dbpedia	Movies	4.93	Q	Comunica
+C11	20.0	watdiv		19.318	C1	Comunica
+C21	2.0	watdiv		46.341	C2	Comunica
+C31		watdiv		160.401	C3	Comunica
+F11	0.0	watdiv		3.285	F1	Comunica
+F12	9.0	watdiv		3.809	F1	Comunica
+F13	5.0	watdiv		3.783	F1	Comunica
+F14	4.0	watdiv		3.514	F1	Comunica
+F15	9.0	watdiv		3.912	F1	Comunica
+F21	0.0	watdiv		1.474	F2	Comunica
+F22	0.0	watdiv		1.613	F2	Comunica
+F23	7.0	watdiv		5.016	F2	Comunica
+F24	8.0	watdiv		3.353	F2	Comunica
+F25	7.0	watdiv		5.183	F2	Comunica
+F31	26.0	watdiv		1.865	F3	Comunica
+F32	5.0	watdiv		2.591	F3	Comunica
+F33	26.0	watdiv		1.814	F3	Comunica
+F34	5.0	watdiv		2.511	F3	Comunica
+F35	5.0	watdiv		2.689	F3	Comunica
+F41	20.0	watdiv		5.325	F4	Comunica
+F42	44.0	watdiv		4.656	F4	Comunica
+F43	4.0	watdiv		4.847	F4	Comunica
+F44	44.0	watdiv		4.881	F4	Comunica
+F45	4.0	watdiv		4.858	F4	Comunica
+F51	25.0	watdiv		2.095	F5	Comunica
+F52	25.0	watdiv		2.088	F5	Comunica
+F53	38.0	watdiv		2.712	F5	Comunica
+F54	58.0	watdiv		3.305	F5	Comunica
+F55	25.0	watdiv		2.097	F5	Comunica
+L11	2.0	watdiv		1.396	L1	Comunica
+L12	0.0	watdiv		1.195	L1	Comunica
+L13	2.0	watdiv		1.408	L1	Comunica
+L14	0.0	watdiv		1.22	L1	Comunica
+L15	1.0	watdiv		1.185	L1	Comunica
+L21	15.0	watdiv		1.774	L2	Comunica
+L22	15.0	watdiv		1.831	L2	Comunica
+L23	48.0	watdiv		4.504	L2	Comunica
+L24	48.0	watdiv		4.654	L2	Comunica
+L25	236.0	watdiv		11.163	L2	Comunica
+L31	38.0	watdiv		1.138	L3	Comunica
+L32	41.0	watdiv		1.11	L3	Comunica
+L33	21.0	watdiv		1.107	L3	Comunica
+L34	27.0	watdiv		1.096	L3	Comunica
+L35	41.0	watdiv		1.141	L3	Comunica
+L41	54.0	watdiv		2.538	L4	Comunica
+L42	60.0	watdiv		2.671	L4	Comunica
+L43	47.0	watdiv		2.542	L4	Comunica
+L44	57.0	watdiv		2.65	L4	Comunica
+L45	47.0	watdiv		2.569	L4	Comunica
+L51	239.0	watdiv		11.872	L5	Comunica
+L52	66.0	watdiv		3.888	L5	Comunica
+L53	239.0	watdiv		12.229	L5	Comunica
+L54	66.0	watdiv		3.98	L5	Comunica
+L55	76.0	watdiv		5.698	L5	Comunica
+S11	19.0	watdiv		2.857	S1	Comunica
+S12	9.0	watdiv		2.157	S1	Comunica
+S13	9.0	watdiv		2.5	S1	Comunica
+S14	9.0	watdiv		2.228	S1	Comunica
+S15	9.0	watdiv		2.575	S1	Comunica
+S21	11.0	watdiv		2.461	S2	Comunica
+S22	14.0	watdiv		3.137	S2	Comunica
+S23	12.0	watdiv		2.38	S2	Comunica
+S24	17.0	watdiv		2.232	S2	Comunica
+S25	11.0	watdiv		2.302	S2	Comunica
+S31	0.0	watdiv		4.746	S3	Comunica
+S32	0.0	watdiv		4.856	S3	Comunica
+S33	320.0	watdiv		8.533	S3	Comunica
+S34	0.0	watdiv		5.013	S3	Comunica
+S35	0.0	watdiv		4.8	S3	Comunica
+S41	0.0	watdiv		6.069	S4	Comunica
+S42	4.0	watdiv		4.4	S4	Comunica
+S43	1.0	watdiv		4.0	S4	Comunica
+S44	1.0	watdiv		4.379	S4	Comunica
+S45	0.0	watdiv		4.311	S4	Comunica
+S51	0.0	watdiv		5.442	S5	Comunica
+S52	9.0	watdiv		5.612	S5	Comunica
+S53	0.0	watdiv		5.336	S5	Comunica
+S54	9.0	watdiv		5.617	S5	Comunica
+S55	9.0	watdiv		5.881	S5	Comunica
+S61	1.0	watdiv		1.227	S6	Comunica
+S62	1.0	watdiv		1.185	S6	Comunica
+S63	2.0	watdiv		1.167	S6	Comunica
+S64	1.0	watdiv		1.311	S6	Comunica
+S65	2.0	watdiv		1.157	S6	Comunica
+S71	5.0	watdiv		1.066	S7	Comunica
+S72	2.0	watdiv		1.124	S7	Comunica
+S73	1.0	watdiv		1.066	S7	Comunica
+S74	13.0	watdiv		1.229	S7	Comunica
+S75	7.0	watdiv		1.242	S7	Comunica
+C11	20.0	watdiv		17.989	C1	Comunica
+C21	2.0	watdiv		49.068	C2	Comunica
+C31		watdiv		167.159	C3	Comunica
+F11	0.0	watdiv		3.286	F1	Comunica
+F12	9.0	watdiv		3.661	F1	Comunica
+F13	5.0	watdiv		3.404	F1	Comunica
+F14	4.0	watdiv		3.581	F1	Comunica
+F15	9.0	watdiv		3.723	F1	Comunica
+F21	0.0	watdiv		1.559	F2	Comunica
+F22	0.0	watdiv		1.44	F2	Comunica
+F23	7.0	watdiv		5.81	F2	Comunica
+F24	8.0	watdiv		3.589	F2	Comunica
+F25	7.0	watdiv		5.801	F2	Comunica
+F31	26.0	watdiv		1.889	F3	Comunica
+F32	5.0	watdiv		2.587	F3	Comunica
+F33	26.0	watdiv		1.796	F3	Comunica
+F34	5.0	watdiv		2.439	F3	Comunica
+F35	5.0	watdiv		2.826	F3	Comunica
+F41	20.0	watdiv		4.948	F4	Comunica
+F42	44.0	watdiv		4.536	F4	Comunica
+F43	4.0	watdiv		4.675	F4	Comunica
+F44	44.0	watdiv		4.773	F4	Comunica
+F45	4.0	watdiv		4.884	F4	Comunica
+F51	25.0	watdiv		2.053	F5	Comunica
+F52	25.0	watdiv		2.133	F5	Comunica
+F53	38.0	watdiv		2.696	F5	Comunica
+F54	58.0	watdiv		3.132	F5	Comunica
+F55	25.0	watdiv		2.242	F5	Comunica
+L11	2.0	watdiv		1.33	L1	Comunica
+L12	0.0	watdiv		1.132	L1	Comunica
+L13	2.0	watdiv		1.36	L1	Comunica
+L14	0.0	watdiv		1.225	L1	Comunica
+L15	1.0	watdiv		1.313	L1	Comunica
+L21	15.0	watdiv		1.773	L2	Comunica
+L22	15.0	watdiv		1.779	L2	Comunica
+L23	48.0	watdiv		4.47	L2	Comunica
+L24	48.0	watdiv		4.389	L2	Comunica
+L25	236.0	watdiv		10.978	L2	Comunica
+L31	38.0	watdiv		1.192	L3	Comunica
+L32	41.0	watdiv		1.082	L3	Comunica
+L33	21.0	watdiv		1.084	L3	Comunica
+L34	27.0	watdiv		1.1	L3	Comunica
+L35	41.0	watdiv		1.126	L3	Comunica
+L41	54.0	watdiv		2.607	L4	Comunica
+L42	60.0	watdiv		2.746	L4	Comunica
+L43	47.0	watdiv		2.509	L4	Comunica
+L44	57.0	watdiv		2.588	L4	Comunica
+L45	47.0	watdiv		2.634	L4	Comunica
+L51	239.0	watdiv		11.689	L5	Comunica
+L52	66.0	watdiv		4.018	L5	Comunica
+L53	239.0	watdiv		12.218	L5	Comunica
+L54	66.0	watdiv		3.776	L5	Comunica
+L55	76.0	watdiv		5.756	L5	Comunica
+S11	19.0	watdiv		2.91	S1	Comunica
+S12	9.0	watdiv		2.173	S1	Comunica
+S13	9.0	watdiv		2.622	S1	Comunica
+S14	9.0	watdiv		2.12	S1	Comunica
+S15	9.0	watdiv		2.682	S1	Comunica
+S21	11.0	watdiv		2.55	S2	Comunica
+S22	14.0	watdiv		2.98	S2	Comunica
+S23	12.0	watdiv		2.133	S2	Comunica
+S24	17.0	watdiv		2.27	S2	Comunica
+S25	11.0	watdiv		2.28	S2	Comunica
+S31	0.0	watdiv		4.729	S3	Comunica
+S32	0.0	watdiv		4.961	S3	Comunica
+S33	320.0	watdiv		8.3	S3	Comunica
+S34	0.0	watdiv		4.691	S3	Comunica
+S35	0.0	watdiv		4.733	S3	Comunica
+S41	0.0	watdiv		5.963	S4	Comunica
+S42	4.0	watdiv		4.161	S4	Comunica
+S43	1.0	watdiv		4.112	S4	Comunica
+S44	1.0	watdiv		4.416	S4	Comunica
+S45	0.0	watdiv		4.402	S4	Comunica
+S51	0.0	watdiv		5.201	S5	Comunica
+S52	9.0	watdiv		5.689	S5	Comunica
+S53	0.0	watdiv		5.459	S5	Comunica
+S54	9.0	watdiv		5.303	S5	Comunica
+S55	9.0	watdiv		5.232	S5	Comunica
+S61	1.0	watdiv		1.205	S6	Comunica
+S62	1.0	watdiv		1.219	S6	Comunica
+S63	2.0	watdiv		1.207	S6	Comunica
+S64	1.0	watdiv		1.256	S6	Comunica
+S65	2.0	watdiv		1.164	S6	Comunica
+S71	5.0	watdiv		1.106	S7	Comunica
+S72	2.0	watdiv		1.001	S7	Comunica
+S73	1.0	watdiv		1.118	S7	Comunica
+S74	13.0	watdiv		1.258	S7	Comunica
+S75	7.0	watdiv		1.126	S7	Comunica
+C11	20.0	watdiv		19.383	C1	Comunica
+C21	2.0	watdiv		47.569	C2	Comunica
+C31		watdiv		166.482	C3	Comunica
+F11	0.0	watdiv		2.994	F1	Comunica
+F12	9.0	watdiv		3.767	F1	Comunica
+F13	5.0	watdiv		3.599	F1	Comunica
+F14	4.0	watdiv		3.477	F1	Comunica
+F15	9.0	watdiv		3.938	F1	Comunica
+F21	0.0	watdiv		1.468	F2	Comunica
+F22	0.0	watdiv		1.574	F2	Comunica
+F23	7.0	watdiv		5.556	F2	Comunica
+F24	8.0	watdiv		3.609	F2	Comunica
+F25	7.0	watdiv		5.298	F2	Comunica
+F31	26.0	watdiv		1.794	F3	Comunica
+F32	5.0	watdiv		2.436	F3	Comunica
+F33	26.0	watdiv		1.863	F3	Comunica
+F34	5.0	watdiv		2.474	F3	Comunica
+F35	5.0	watdiv		2.661	F3	Comunica
+F41	20.0	watdiv		4.597	F4	Comunica
+F42	44.0	watdiv		4.668	F4	Comunica
+F43	4.0	watdiv		4.714	F4	Comunica
+F44	44.0	watdiv		4.913	F4	Comunica
+F45	4.0	watdiv		4.366	F4	Comunica
+F51	25.0	watdiv		1.991	F5	Comunica
+F52	25.0	watdiv		2.092	F5	Comunica
+F53	38.0	watdiv		2.595	F5	Comunica
+F54	58.0	watdiv		3.21	F5	Comunica
+F55	25.0	watdiv		2.052	F5	Comunica
+L11	2.0	watdiv		1.363	L1	Comunica
+L12	0.0	watdiv		1.185	L1	Comunica
+L13	2.0	watdiv		1.325	L1	Comunica
+L14	0.0	watdiv		1.155	L1	Comunica
+L15	1.0	watdiv		1.246	L1	Comunica
+L21	15.0	watdiv		1.846	L2	Comunica
+L22	15.0	watdiv		1.916	L2	Comunica
+L23	48.0	watdiv		4.642	L2	Comunica
+L24	48.0	watdiv		4.404	L2	Comunica
+L25	236.0	watdiv		10.875	L2	Comunica
+L31	38.0	watdiv		1.126	L3	Comunica
+L32	41.0	watdiv		1.074	L3	Comunica
+L33	21.0	watdiv		1.125	L3	Comunica
+L34	27.0	watdiv		1.066	L3	Comunica
+L35	41.0	watdiv		1.05	L3	Comunica
+L41	54.0	watdiv		2.559	L4	Comunica
+L42	60.0	watdiv		2.69	L4	Comunica
+L43	47.0	watdiv		2.694	L4	Comunica
+L44	57.0	watdiv		2.631	L4	Comunica
+L45	47.0	watdiv		2.603	L4	Comunica
+L51	239.0	watdiv		12.397	L5	Comunica
+L52	66.0	watdiv		4.016	L5	Comunica
+L53	239.0	watdiv		11.967	L5	Comunica
+L54	66.0	watdiv		3.823	L5	Comunica
+L55	76.0	watdiv		5.541	L5	Comunica
+S11	19.0	watdiv		3.018	S1	Comunica
+S12	9.0	watdiv		2.096	S1	Comunica
+S13	9.0	watdiv		2.584	S1	Comunica
+S14	9.0	watdiv		2.173	S1	Comunica
+S15	9.0	watdiv		2.484	S1	Comunica
+S21	11.0	watdiv		2.483	S2	Comunica
+S22	14.0	watdiv		2.902	S2	Comunica
+S23	12.0	watdiv		2.4	S2	Comunica
+S24	17.0	watdiv		2.363	S2	Comunica
+S25	11.0	watdiv		2.378	S2	Comunica
+S31	0.0	watdiv		4.664	S3	Comunica
+S32	0.0	watdiv		5.014	S3	Comunica
+S33	320.0	watdiv		8.476	S3	Comunica
+S34	0.0	watdiv		5.005	S3	Comunica
+S35	0.0	watdiv		4.933	S3	Comunica
+S41	0.0	watdiv		5.914	S4	Comunica
+S42	4.0	watdiv		4.277	S4	Comunica
+S43	1.0	watdiv		4.077	S4	Comunica
+S44	1.0	watdiv		4.64	S4	Comunica
+S45	0.0	watdiv		4.046	S4	Comunica
+S51	0.0	watdiv		5.256	S5	Comunica
+S52	9.0	watdiv		5.372	S5	Comunica
+S53	0.0	watdiv		5.396	S5	Comunica
+S54	9.0	watdiv		5.471	S5	Comunica
+S55	9.0	watdiv		5.281	S5	Comunica
+S61	1.0	watdiv		1.17	S6	Comunica
+S62	1.0	watdiv		1.194	S6	Comunica
+S63	2.0	watdiv		1.325	S6	Comunica
+S64	1.0	watdiv		1.325	S6	Comunica
+S65	2.0	watdiv		1.235	S6	Comunica
+S71	5.0	watdiv		1.116	S7	Comunica
+S72	2.0	watdiv		1.075	S7	Comunica
+S73	1.0	watdiv		1.089	S7	Comunica
+S74	13.0	watdiv		1.193	S7	Comunica
+S75	7.0	watdiv		1.191	S7	Comunica

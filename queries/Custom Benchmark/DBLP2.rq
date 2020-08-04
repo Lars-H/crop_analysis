@@ -1,0 +1,9 @@
+# Select the labels and page of publications by editors of ISWC 2014 
+SELECT *
+WHERE
+{
+<http://dblp.l3s.de/d2r/resource/publications/conf/semweb/2014-1> <http://swrc.ontoware.org/ontology#editor> ?z .
+?x <http://purl.org/dc/elements/1.1/creator> ?z .
+?x <http://xmlns.com/foaf/0.1/page> ?y.
+?x <http://www.w3.org/2000/01/rdf-schema#label> ?l .
+}
