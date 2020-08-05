@@ -2,9 +2,15 @@
 
 Supplemental material to "CROP: Cost- and Robustness-based Query Optimization for Triple Pattern Fragment Clients". 
 
+
+## Notebooks
+
+The `notebooks` directory provides Jupyter Notebooks used for the analysis of the experimental results.
+This included the analyses presented in the paper as well as additional analysis and results for further insights.
+
 ## Experimental Results
 
-This directory contains all raw results from the experimental studies as *tab-separated* files.
+The `experimental_results` directory contains all raw results from the experimental studies as *tab-separated* files.
 
 ### Cost Model and IDP Parameters
 
@@ -38,10 +44,14 @@ This avoids that the additional logging required to obtain the requests affects 
 
 Note: In order to compute the diefficiency for Comunica we made two additions to the original code. First, added a log message with the timestamp when the engines is called (in `actor-init-sparql/bin/query.js`). Second, for each answer that is produced, we also logged the timestamps (in `ActorSparqlSerializeJson.js`).
 
+#### Additional Results: nLDE Benchmark Q11-Q20
+- Runtimes: CROP (`13_runtimes_nLDE_Q11_20_crop.tsv`)
+- Runtimes: nLDE (`14_runtimes_nLDE_Q11_20_nlde.tsv`)
+- Runtimes: Comunica (`15_runtimes_nLDE_Q11_20_comunica.tsv`)
 
 ## Queries
 
-This directory contains all queries used for the experimental studies.
+The `queries` directory contains all queries used for the experimental studies.
 
 - nLDE Benchmark: Queries from the nLDE benchmark used for the evaluation.
 - WatDiv: Queries for the WatDiv benchmark created using the provided CLI with query-count=5.
