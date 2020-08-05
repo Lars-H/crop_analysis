@@ -1,6 +1,6 @@
 # CROP - Supplemental Material
 
-Supplemental material to "CROP: Cost- and Robustness-based Query Optimization for Triple Pattern Fragment Clients". 
+Supplemental material to experimental evaluation of [CROP](https://github.com/Lars-H/crop) from "CROP: Cost- and Robustness-based Query Optimization for Triple Pattern Fragment Clients". 
 
 
 ## Notebooks
