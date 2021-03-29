@@ -1,0 +1,8 @@
+# SPARQL query to obtain Students with ``Stanford University'' as their alma mater,
+# the title of their thesis and their doctoral advisor.
+select * where {
+?d1 <http://www.w3.org/2000/01/rdf-schema#label> "Stanford University"@en .
+?d2 <http://dbpedia.org/ontology/almaMater> ?d1.
+?d2 <http://dbpedia.org/property/thesisTitle> ?o2 .
+?d2 <http://dbpedia.org/ontology/doctoralAdvisor> ?o4 .
+}

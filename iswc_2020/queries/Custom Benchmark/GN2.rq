@@ -1,0 +1,9 @@
+# Select features, their population and name that are located in a 
+# country with (alternate) name "Niederlande"
+SELECT *
+WHERE {
+?d1 <http://www.geonames.org/ontology#alternateName> "Niederlande" .
+?d2 <http://www.geonames.org/ontology#parentCountry> ?d1 .
+?d2 <http://www.geonames.org/ontology#population> ?o1 .
+?d2 <http://www.geonames.org/ontology#name> ?o2 .
+}
