@@ -1,0 +1,35 @@
+style:
+    colors:
+        background: "#EEEEEE"
+        
+        my_darkest_blue : "#034b63"
+        my_dark_blue : "#67d8fe"
+        my_blue : "#017298"
+        my_light_blue: "#01B4F0"
+        
+        my_lightest_gray : "#f2f2f2"
+        my_light_gray: "#bfbfbf"
+        my_gray : "#666666"
+        my_dark_gray : "#666666"
+        my_grey : "#666666"
+
+        my_light_orange: "#ffd24d"
+        my_orange: "#ffc61a"
+        my_dark_orange: "#e6ac00"
+
+        my_light_green: "#73e401"
+        my_green: "#85b201"
+        my_dark_green: "#407e02"
+
+        my_red: "#b22d01"
+        
+        my_dark_yellow: "#989801"
+        my_yellow: "#e4e401"
+        my_light_yellow: "#fefe1b"
+        
+        my_white: "#FFFFFF"
+    
+    rcParams:
+        text.usetex: True
+        font.family: "Linux Libertine O"
+        
