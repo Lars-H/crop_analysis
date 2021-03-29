@@ -1,9 +1,0 @@
-# Select the proceedings, its editors and the proceedings' title of proceedings 
-# that are part of the AAAI conference series.  
-SELECT *
-WHERE {
-?x <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Venues/AAAI> .
-?d <http://swrc.ontoware.org/ontology#series> ?x .
-?d <http://swrc.ontoware.org/ontology#editor> ?e .
-?d <http://purl.org/dc/elements/1.1/title> ?s .
-}

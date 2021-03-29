@@ -1,7 +1,0 @@
-# Select persons that are of subject "American Inventors" and their parents
-select * where {
-?d1 ?p1 "American inventors"@en .
-?d2 <http://purl.org/dc/terms/subject> ?d1 .
-?d2 <http://dbpedia.org/property/father> ?o1 .
-?d2 <http://dbpedia.org/property/mother> ?o2.
-}

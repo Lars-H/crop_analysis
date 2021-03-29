@@ -1,8 +1,0 @@
-SELECT *
-WHERE
-{
-<http://sws.geonames.org/1000065/> <http://www.geonames.org/ontology#featureCode> ?y .
-?z <http://www.geonames.org/ontology#featureCode> ?y .
-?z <http://www.geonames.org/ontology#officialName> ?n .
-?z <http://www.geonames.org/ontology#countryCode> ?t .
-}

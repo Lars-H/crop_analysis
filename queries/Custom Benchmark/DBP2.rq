@@ -1,6 +1,0 @@
-# Select people and their field of people that live in the country of Amsterdam
-select * where {
-<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/country> ?o1 .
-?d1 <http://dbpedia.org/ontology/nationality> ?o1.
-?d1 <http://dbpedia.org/property/field> ?o2 .
-}

@@ -1,8 +1,0 @@
-# Select Wikipedia articles of features located in the country of "Mellesdal" (http://sws.geonames.org/3146096/)
-SELECT *
-WHERE
-{
-<http://sws.geonames.org/3146096/> <http://www.geonames.org/ontology#parentCountry> ?y .
-?p <http://www.geonames.org/ontology#parentCountry> ?y .
-?y <http://www.geonames.org/ontology#wikipediaArticle> ?n .
-}
